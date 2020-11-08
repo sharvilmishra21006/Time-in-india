@@ -1,0 +1,15 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif; 
+   background-image: url(pngtree-full-3d-radial-gradient-background-redcreative-backgroundcolored-radiation-image_84559.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+nav {
+	background-image: url(1Gradient.jpg);
+	 font-family: 'Montserrat', sans-serif; 
+}
